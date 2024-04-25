@@ -55,7 +55,7 @@ body{
     border-radius: 5px;
     min-height: 0;
     overflow: hidden;
-    transition: max-height 1s;
+    transition: max-height 2s;
 }
 
 #imgBox img{
@@ -67,6 +67,7 @@ body{
     min-height: 200px;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
+    transition: max-height 2s;
 }
 
 .error{
