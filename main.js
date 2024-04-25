@@ -13,7 +13,7 @@ function generateQR(){
     } else{
         qrText.classList.add('error');
         setTimeout(()=>{
-            qrText.classList.remove('erro')
+            qrText.classList.remove('error')
         },1000)
     }
 }
